@@ -44,5 +44,8 @@ before the exam.
 ## Resources
 See [resources.md](./resources.md) for docs, videos, and sandboxes I found useful.
 
+## License
+This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
 *Folder numbering (path-1, path-2...) follows Microsoft's official course order. 
 The "Order" column above reflects the sequence I'm actually studying in.*
