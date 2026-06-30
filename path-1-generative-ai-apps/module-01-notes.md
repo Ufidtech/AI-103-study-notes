@@ -19,3 +19,10 @@ One or two sentences summarizing the whole module.
 ```python
 # example
 ```
+
+## Key concepts
+- Concept: short explanation
+- Concept: short explanation
+
+## Questions I'd ask myself before the exam
+- ...
