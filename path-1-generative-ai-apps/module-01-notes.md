@@ -1,12 +1,16 @@
-# Module 1: [exact module title from Microsoft Learn]
+#Path 1: Develop generative AI apps in Azure
 
-## Unit 1: [unit title]
+# Module 1: Plan and Process To Develop AI Solutions On Azure
+
+## Unit 1: Introduction
 Key points from this unit...
+- The general growth in the use of AI has lead to the fact that developers will still need to develop a comprehensive AI solutions that combine ML moodels, AI Servics,prompt engineering & custom code.
+- Differeent types of services "multi" are made available they can be use to create AI... 
 
-## Unit 2: [unit title]
+## Unit 2: What is AI
 Key points...
 
-## Unit 3: [unit title]
+## Unit 3: Microsoft Foundry
 Key points...
 
 ## TL;DR
