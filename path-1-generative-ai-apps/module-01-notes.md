@@ -4,11 +4,15 @@
 
 ## Unit 1: Introduction
 Key points from this unit...
-- The general growth in the use of AI has lead to the fact that developers will still need to develop a comprehensive AI solutions that combine ML moodels, AI Servics,prompt engineering & custom code.
-- Differeent types of services "multi" are made available they can be use to create AI... 
+- The general growth in the use of AI has lead to the fact that developers will still need to develop comprehensive AI solutions that combine ML moodels, AI Services,prompt engineering & custom code.
+- Differeent types of multi services  are made available by microsoft which can be use to create AI Solutions.
+- Before starting an AI App project it is best to consider the available options for tools, services and framework also principles & practices that can help one to succeed.
 
 ## Unit 2: What is AI
-Key points...
+- The term AI covers a wide range of capabilities which enabling APPs to behave like human
+- AI has been with us for quite some times now
+- Its definition varies as the technology with it evolves
+- In todays world AI apps are built on ML models which is found to bundle structural relationships found in large data this then enables applications to be able to interpret inputs in various forms, process them then generate the right responses and predictions
 
 ## Unit 3: Microsoft Foundry
 Key points...
