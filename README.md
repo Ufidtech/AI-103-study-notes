@@ -23,8 +23,8 @@ before the exam.
 
 | Learning Path | Modules | Status | Notes |
 |---|---|---|---|
-| Develop AI agents on Azure | 1/9 | 🟡 In progress | [Go →](./path-2-ai-agents) |
-| Develop generative AI apps in Azure | 0/6 | ⚪ Not started | [Go →](./path-1-generative-ai-apps) |
+| Develop generative AI apps in Azure | 0/6 | 🟡 In progress | [Go →](./path-1-generative-ai-apps) |
+| Develop AI agents on Azure | 0/9 | ⚪ Not started | [Go →](./path-2-ai-agents) |
 | Develop natural language solutions in Azure | 0/7 | ⚪ Not started | [Go →](./path-3-nlp-solutions) |
 | Extract insights from visual data on Azure | 0/8 | ⚪ Not started | [Go →](./path-4-computer-vision) |
 
