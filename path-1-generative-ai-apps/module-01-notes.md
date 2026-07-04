@@ -24,7 +24,7 @@ Key points from this unit...
 ## Unit 3: Microsoft Foundry [MF]
 <img width="258" height="248" alt="image" src="https://github.com/user-attachments/assets/ac4c13d0-a00d-47ae-b4d9-3506af3606a6" />
 
-A Platform for AI development on Microsoft Azure. 
+A Platform for AI development on Microsoft Azure.
 
 ### Capabilities of MF that makes it recommended way for building all but most simple APPs;
 - Project Organization
