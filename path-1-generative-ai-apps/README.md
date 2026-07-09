@@ -13,7 +13,7 @@ tools, and grounding agents in data.)
 
 | # | Module | Status | Notes |
 |---|---|---|---|
-| 1 | Plan and prepare to develop AI solutios on Azure | 🟡 In progress (9/9 units) | [Notes →](./module-01-notes.md) |
+| 1 | Plan and prepare to develop AI solutios on Azure | 🟢 In completed (9/9 units) | [Notes →](./module-01-notes.md) |
 | 2 | Module title | ⚪ Not started | — |
 | 3 | Module title | ⚪ Not started | — |
 | 4 | Module title | ⚪ Not started | — |
