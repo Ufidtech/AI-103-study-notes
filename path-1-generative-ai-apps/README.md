@@ -1,4 +1,4 @@
-# Path: Develop geerative AI apps in Azure
+# Path: Develop generative AI apps in Azure
 
 **Level:** Intermediate · **Role:** AI Engineer · **Tools:** Foundry Tools
 **Modules:** 9 total · **Progress:** 1/9 completed (12%)
