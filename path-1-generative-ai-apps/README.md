@@ -35,12 +35,21 @@ I have come to also know that developers should not use AI blindly they shoukd f
 
 ## Key takeaways so far
 * AI is not here to take away any job instead it has come to restructure how things are being done and simplify the whole workflow.
-* Developers will need to become more intentional whe developing appplications as they would be the forefronter of such application
+* Developers will need to become more intentional when developing appplications as they would be the forefronter of such application.
 * Microsoft Foundry tools have been put i place to make the all development process an easier one.
-* Foudry tools is another level
-* Core principles of responsible AI use;  -Fairness, Reliability & Safety, Privacy & security, Inclusiveness, Transparency, Accountability
+* Foundry tools is another level.
+* Core principles of responsible AI use;  -Fairness, Reliability & Safety,
+* Privacy & security, Inclusiveness, Transparency, Accountability.
+* Common capabilities of AI; Gen AI && agents, NLP, computer speech,computer vision, Informatio extraction. As Determining the specific AI capabilities you want to include in your application can help you identify the most appropriate AI services that you'll need to provision, configure, and use in your solution.
+* Azure tools were previously called Azure I services prior to That was Azure Cognitive Services. Funny enough this part are still reflected in some APIs and SDKs
+* For Azure New projects,you should use the tools provided in a Microsoft Foundry resource.
+
 - ...
 
 ## Resources specific to this path
-Links/docs/videos specific to this path only (general resources go in 
-the root `resources.md` instead).
+ * For more information about Foundry classic projects, see  https://learn.microsoft.com/en-us/azure/foundry-classic/what-is-foundry  
+ *  For more information about using the Foundry Toolkit extension for Visual Studio Code, see https://code.visualstudio.com/docs/intelligentapps/overview
+ *  For more information about using GitHub Copilot in Visual Studio Code, see https://code.visualstudio.com/docs/copilot/overview
+ *  For more information about Microsoft's principles for responsible AI, see https://microsoft.com/ai/responsible-ai
+
+
